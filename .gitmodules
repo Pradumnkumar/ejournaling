@@ -1,0 +1,9 @@
+[submodule "frontend_React"]
+	path = frontend_React
+	url = git@github.com:pnkjkr21/frontend_React.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Pradumnkumar/ejournaling-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Pradumnkumar/ejournaling-frontend.git
